@@ -1,0 +1,126 @@
+* {
+  font-family: 'Merriweather', serif;
+}
+
+.banner-img {
+  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+    url('../resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  height: 500px;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.banner-text {
+  text-align: center;
+  padding: 100px;
+
+}
+
+.text-banner {
+  font-size: 20px;
+  color: #FFF;
+}
+
+.text-banners {
+  font-size: 70px;
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+
+.holiday {
+  text-align: center;
+  margin: 150px;
+
+}
+
+.holiday-text {
+  color: red;
+  font-size: 50px;
+}
+
+.holiday-textt {
+  color: red;
+}
+
+.new-year {
+  align-items: center;
+  background-repeat: no-repeat;
+  padding: 20px 20%;
+}
+
+.Vector-text {
+  margin: 10px;
+  padding-left: 20px;
+  padding-top: 0px;
+  color: #FFF;
+  font-size: 85px; 
+}
+
+ .image{
+  display: flex;
+  justify-content: space-between;
+  background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
+  margin: 130px 0;
+  background-repeat: no-repeat;
+  height: 500px;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  padding: 40px;
+  border-radius: 5px;  
+}
+.group-img{
+  /* background-color: radial-gradient(50% 50% at 50% 50%, #690B02 27%, #8F4941 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%); */
+  /* background-blend-mode: multiply; */
+  /* mix-blend-mode: multiply; */
+  
+}
+
+.vector-textt {
+  color: #FFF;
+  padding-left: 20px;
+}
+
+.join {
+  color: #FFF;
+  padding-top: 10px;
+  padding-left: 100px;
+  font-size: 20px;
+  font-weight: 700;
+
+}
+
+.venu {
+  background: linen;
+  margin: 130px 0;
+  padding: 130px;
+  border-radius: 10px;
+}
+
+.venu-text {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.place,
+.time,
+.date {
+  color: red;
+}
+
+.btn {
+  padding: 15px 30px;
+  border-radius: 5%;
+  font-size: 20px;
+  font-weight: 700;
+  border: none;
+  color: white;
+  background-color: red;
+}
